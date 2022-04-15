@@ -7,7 +7,6 @@ Stack <br>
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
 <!--
 **WW3DEF/WW3DEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

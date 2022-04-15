@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWW3DEF%2Fhit-counter&count_bg=%232AC0B7&title_bg=%23020202&icon=&icon_color=%23FAFAFA&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Main
-<img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!--
 **WW3DEF/WW3DEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
